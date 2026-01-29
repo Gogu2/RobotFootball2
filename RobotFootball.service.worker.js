@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1769627373|635227527';
+const CACHE_VERSION = '1769725180|1578292776';
 /** @type {string} */
 const CACHE_PREFIX = 'RobotFootball-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
